@@ -4,7 +4,7 @@ I am looking to specialize in mobile. Currently, I only develop for android, but
 
 Besides that, I also create some bots using python.
 
-- 🔭 I’m currently working on [score-test](https://github.com/MatteusSouza/practice-test)
+- 🔭 I’m currently working on [score-test](https://github.com/MatteusSouza/score-test)
 - 🌱 I’m currently learning Coroutines
 - 💬 Ask me about anything.
 - 📫 How to reach me: message me at telegram @mateus_dev
