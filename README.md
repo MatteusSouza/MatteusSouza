@@ -12,8 +12,6 @@ Besides that, I also create some bots using python.
 
 <img src="./images/crop1.gif">
 
-<br><br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSouza&hide=TeX&layout=compact&theme=dark&langs_count=6)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteussouza/)
