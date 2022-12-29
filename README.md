@@ -5,7 +5,7 @@ I am looking to specialize in mobile. Currently, I only develop for android, but
 Besides that, I also create some bots using python.
 
 - 🔭 I’m currently working on [score-test](https://github.com/MatteusSouza/score-test)
-- 🌱 I’m currently learning Coroutines
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about anything.
 - 📫 How to reach me: message me at telegram @mttssouza
 - ⚡ Fun fact: My first programming language was ActionScript 3.0 in 2013 when I cloned a game of my teacher. After that, I only got back to learning programming in 2018 when I got interested in python.
