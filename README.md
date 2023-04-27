@@ -1,4 +1,4 @@
-I am an android developer and computer science student at Rio de Janeiro State University.
+I am a computer science student at Rio de Janeiro State University.
 
 I am looking to specialize in mobile. Currently, I only develop for android, but I have a great interest in Kotlin Multiplatform Mobile with a plan to develop for ios in the future. 
 
@@ -8,7 +8,7 @@ Besides that, I also create some bots using python.
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about anything.
 - 📫 How to reach me: message me at telegram @mttssouza
-- ⚡ Fun fact: My first programming language was ActionScript 3.0 in 2013 when I cloned a game of my teacher. After that, I only got back to learning programming in 2018 when I got interested in python.
+- ⚡ Fun fact: Several years ago, I harbored a dislike for programming. However, I have since developed a passion for it that I cannot explain.
 
 <img src="./images/crop1.gif">
 
