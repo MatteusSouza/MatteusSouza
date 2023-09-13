@@ -5,7 +5,7 @@ I am looking to specialize in mobile. Currently, I only develop for android, but
 Besides that, I also create some bots using python.
 
 - 🔭 I’m currently working on [score-test](https://github.com/MatteusSouza/score-test)
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything.
 - 📫 How to reach me: message me at telegram @mttssouza
 - ⚡ Fun fact: Several years ago, I harbored a dislike for programming. However, I have since developed a passion for it that I cannot explain.
