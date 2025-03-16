@@ -1,14 +1,14 @@
 I am a computer science student at Rio de Janeiro State University.
 
-I am looking to specialize in mobile. Currently, I only develop for android, but I have a great interest in Kotlin Multiplatform Mobile with a plan to develop for ios in the future. 
+I am looking to specialize in mobile development. Currently, I only develop for Android, but I am very interested in developing for iOS in the future.
 
-Besides that, I also create some bots using python.
-
-- 🔭 I’m currently working on [score-test](https://github.com/MatteusSouza/score-test)
-- 🌱 I’m currently learning Java
+<!--
+- 🔭 I’m currently working on [score-test](https://github.com/MatteusSouza/score-test)-->
+- 🌱 I’m currently learning Jetpack Compose
 - 💬 Ask me about anything.
-- 📫 How to reach me: message me at telegram @mttssouza
+<!--- 📫 How to reach me: message me at telegram @mttssouza
 - ⚡ Fun fact: Several years ago, I harbored a dislike for programming. However, I have since developed a passion for it that I cannot explain.
+-->
 
 <img src="./images/crop1.gif">
 
